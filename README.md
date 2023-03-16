@@ -5,8 +5,13 @@
 </ol>
 <img src="git/capturas git/1.jgp" />
 
+<ol>
+  <li>
+  $ git clone https://github.com/Akwarck/masteruah
+  $ git remote add origin https://github.com/Akwarck/masteruah.git
+  </li>
+  </ol>
 
-$ git remote add origin https://github.com/Akwarck/masteruah.git
 $ touch README.md
 $ notepad readme.md
 $ git add README.md
