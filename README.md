@@ -52,6 +52,6 @@ $ notepad readme.md
     <th>GITHUB</th>
 <tr> 
   <th>Julian Mario Retamar Natale</th>
-  <th>http://https://github.com/Akwarck</th>
+  <th>https://github.com/Akwarck</th>
   </tr>
 </table>
