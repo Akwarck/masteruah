@@ -1,4 +1,11 @@
-$ git init
+<ol>
+  <li>
+  $ git init
+  </li>
+</ol>
+
+
+
 $ git remote add origin https://github.com/Akwarck/masteruah.git
 $ touch README.md
 $ notepad readme.md
@@ -38,6 +45,13 @@ $ git tag -a v0.2 -m "Version 0.2"
 $ git branch -d v0.2
 $ git branch -D v0.2
 $ notepad readme.md
+
+<table>
+<tr> 
+  <th>Julian Mario Retamar Natale</th>
+  <th>http://https://github.com/Akwarck</th>
+  </tr>
+</table>
 
 |        NOMBRE          |                     GITHUB                                 |
 |------------------------|---------------------------------------------------         |
