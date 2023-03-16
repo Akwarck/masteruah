@@ -3,7 +3,7 @@
   $ git init
   </li>
 </ol>
-
+<img src="git/capturas git/1.jgp" />
 
 
 $ git remote add origin https://github.com/Akwarck/masteruah.git
