@@ -47,12 +47,11 @@ $ git branch -D v0.2
 $ notepad readme.md
 
 <table>
+  <tr>
+    <th>NOMBRE</th>
+    <th>GITHUB</th>
 <tr> 
   <th>Julian Mario Retamar Natale</th>
   <th>http://https://github.com/Akwarck</th>
   </tr>
 </table>
-
-|        NOMBRE          |                     GITHUB                                 |
-|------------------------|---------------------------------------------------         |
-| Julian Mario Retamar Natale| [enlace a github 1](http://https://github.com/Akwarck) |
